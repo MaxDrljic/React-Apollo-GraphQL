@@ -3,7 +3,7 @@ import Sequelize from 'sequelize';
 const sequelize = new Sequelize(
   'react-apollo-graphql',
   'postgres',
-  'zagrebutrine',
+  'yourpasswordgoeshere',
   {
     host: 'localhost',
     dialect: 'postgres',
