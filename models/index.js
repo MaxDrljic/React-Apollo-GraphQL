@@ -1,9 +1,9 @@
 import Sequelize from 'sequelize';
 
 const sequelize = new Sequelize(
-  'test_graphql_db',
-  'test_graphql_admin',
-  'iamapassword',
+  'react-apollo-graphql',
+  'postgres',
+  'zagrebutrine',
   {
     host: 'localhost',
     dialect: 'postgres',
