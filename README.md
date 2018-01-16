@@ -1,3 +1,3 @@
 # React-Apollo-GraphQL
 
-Web app for suggestions using React-Apollo-GraphQL.
+Back-end code used to work with React-Apollo-GraphQL-Front-End.
